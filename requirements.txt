@@ -3,5 +3,4 @@ flask-cors
 python-dotenv
 gunicorn
 supabase
-supabase-py
 PyJWT
